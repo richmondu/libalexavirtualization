@@ -28,6 +28,19 @@ Many PanL Displays can be connected to a PanL Hub at the same time.
 Customers will be able to <b>use the PanL Hub and any of the connected PanL Display as an Amazon Echo Dot device</b>.
 
 
+
+# Sub-projects
+
+1. [RPI Alexa Gateway/Server](https://github.com/richmondu/FT900/tree/master/Alexa/Amazon%20Alexa%20Gateway)
+
+2. [FT900 Alexa Client](https://github.com/richmondu/FT900/tree/master/Alexa/Amazon%20Alexa%20Client) - main documentation is here
+
+3. [FT900 Alexa Client Simulator](https://github.com/richmondu/FT900/tree/master/Alexa/Amazon%20Alexa%20Client%20Simulator)
+
+4. [ESP32 Alexa Client](https://github.com/richmondu/FT900/tree/master/Alexa/Amazon%20Alexa%20Client%20ESP32)
+
+
+
 # FT900-side (Alexa Client)
 
 Below is a block diagram showing the implemented components of the FT900 application.
@@ -725,18 +738,6 @@ Below are the action items for the Alexa Demo.
       5. Support "FT900 libMAD MP3 decoder" and provide RPI option to send MP3 instead of PCM/raw.
       6. Support "FT900 Wake-Word detection". Currently, user has to press down a button to start voice recording.
       7. [BUG] RPI AVS SDK audio playback is disabled. Current code assumes that only FT900 clients can use Alexa.
-
-
-
-# Sub-projects
-
-1. [RPI Alexa Gateway](https://github.com/richmondu/FT900/tree/master/Alexa/Amazon%20Alexa%20Gateway)
-
-2. [FT900 Alexa Client](https://github.com/richmondu/FT900/tree/master/Alexa/Amazon%20Alexa%20Client) - main documentation is here
-
-3. [FT900 Alexa Client Simulator](https://github.com/richmondu/FT900/tree/master/Alexa/Amazon%20Alexa%20Client%20Simulator)
-
-4. [ESP32 Alexa Client](https://github.com/richmondu/FT900/tree/master/Alexa/Amazon%20Alexa%20Client%20ESP32)
 
 
 
