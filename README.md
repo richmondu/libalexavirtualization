@@ -31,6 +31,8 @@ Customers will be able to <b>use the PanL Hub and any of the connected PanL Disp
 
 # Sub-projects
 
+The source codes are available at https://github.com/richmondu/FT900
+
 1. [RPI Alexa Gateway/Server](https://github.com/richmondu/FT900/tree/master/Alexa/Amazon%20Alexa%20Gateway)
 
 2. [FT900 Alexa Client](https://github.com/richmondu/FT900/tree/master/Alexa/Amazon%20Alexa%20Client) - main documentation is here
